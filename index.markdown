@@ -47,10 +47,10 @@ All of these features are built into the queuing system itself.
 The system is based on a set of Lua scripts that run atomically on
 redis.
 
-Base redis lua scripts: [bamboo-scripts](https://github.com/Wanderu/bamboo-scripts)
-Python Library: [wanderu.bamboo](https://github.com/Wanderu/wanderu.bamboo)
-Javascript Library: [jsbamboo](https://github.com/Wanderu/jsbamboo)
-Go Library: [go-bamboo](https://github.com/Wanderu/go-bamboo)
+- Base redis lua scripts: [bamboo-scripts](https://github.com/Wanderu/bamboo-scripts)
+- Python Library: [wanderu.bamboo](https://github.com/Wanderu/wanderu.bamboo)
+- Javascript Library: [jsbamboo](https://github.com/Wanderu/jsbamboo)
+- Go Library: [go-bamboo](https://github.com/Wanderu/go-bamboo)
 
 ## Bandit PyTest Plugin
 
