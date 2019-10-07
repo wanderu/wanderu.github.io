@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Wanderu Open Source"
+title: "Home"
 permalink: /
 ---
 
-# Wanderu Open Source
+# Open Source Software at Wanderu
 
-Over time, team members at Wanderu have created numerous open source
+At Wanderu, we rely heavily on Open Source software. We consider it
+important to contribute to a healthy Open Source ecosystem.
+
+Over time, team members at Wanderu have created Open Source
 projects that we use in-house to solve problems. You can find most
 of those projects in this github repository.
 
